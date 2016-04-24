@@ -13,3 +13,5 @@ Program written for LOVE 0.9.2 and supplied as-is with no warrany.
 
 'ten hundred' word list adapted from http://splasho.com/upgoer5/phpspellcheck/dictionaries/1000.dicin
 
+unit tests require the ```LuaUnit``` library
+
